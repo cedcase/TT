@@ -1,0 +1,38 @@
+
+body {
+background-color: rgb(30, 206, 206);
+}
+
+img {
+  background-color: rgb(30, 206, 206);
+  }
+#hdn {
+
+}
+
+
+  hr {
+    border-style:1px;
+    border-top-style:line;
+    border-color:none;
+    border-width:1px;
+    width: 10;
+  }
+
+h1 {
+color:rgb(228, 11, 11)
+}
+
+h2 {
+color:darkgreen
+  }
+h3 {
+    
+    color:blueviolet
+    
+    }
+/*
+    hr.new5 {
+      border: 10px solid green;
+      border-radius: 5px;
+    }   * /
